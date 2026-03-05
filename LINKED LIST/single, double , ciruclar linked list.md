@@ -6,6 +6,7 @@
 
 ![Image](https://www.w3resource.com/w3r_images/c-linked_list-exercise-4-image.png)
 
+
 ![Image](https://static.afteracademy.com/images/types-of-linked-list-and-operation-on-linked-list-insert-begin-c5d6d8aebb19c584.png)
 
 ### 🔹 Representation
